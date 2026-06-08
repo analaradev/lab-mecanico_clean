@@ -1,16 +1,23 @@
-# new_mecanico
+# Mecanico Clean
 
-A new Flutter project.
+Version reorganizada de un laboratorio de aplicacion para gestion de servicios mecanicos.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Practicar la construccion de una aplicacion administrativa con Flutter, cuidando la estructura del proyecto, la organizacion de pantallas y los flujos principales de captura y consulta.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Enfoque del proyecto
+
+- Gestion de informacion relacionada con servicios mecanicos
+- Pantallas para captura y visualizacion de datos
+- Practica de arquitectura y limpieza de proyecto
+- Mejora progresiva de una idea previa
+
+## Estado
+
+Proyecto de laboratorio utilizado para aprendizaje y refinamiento tecnico.
