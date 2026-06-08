@@ -1,23 +1,34 @@
 # Mecanico Clean
 
-Version reorganizada de un laboratorio de aplicacion para gestion de servicios mecanicos.
+<div align="center">
 
-## Objetivo
+![Lab](https://img.shields.io/badge/Tipo-Lab-f97316?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-Prototipo-facc15?style=for-the-badge)
 
-Practicar la construccion de una aplicacion administrativa con Flutter, cuidando la estructura del proyecto, la organizacion de pantallas y los flujos principales de captura y consulta.
+**Version reorganizada de un prototipo para gestion de servicios mecanicos.**
+
+</div>
+
+---
+
+## Contexto
+
+Proyecto de laboratorio enfocado en mejorar la estructura de una aplicacion administrativa para servicios mecanicos.
+
+## Proposito
+
+- Reorganizar pantallas y flujos de captura.
+- Explorar una estructura mas limpia para el proyecto.
+- Practicar interfaces administrativas con Flutter.
+- Conservar una version refinada de una idea previa.
 
 ## Tecnologias
 
-- Flutter
-- Dart
-
-## Enfoque del proyecto
-
-- Gestion de informacion relacionada con servicios mecanicos
-- Pantallas para captura y visualizacion de datos
-- Practica de arquitectura y limpieza de proyecto
-- Mejora progresiva de una idea previa
+![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white)
+![Admin](https://img.shields.io/badge/Gestion-16a34a?style=flat-square)
 
 ## Estado
 
-Proyecto de laboratorio utilizado para aprendizaje y refinamiento tecnico.
+Prototipo de laboratorio conservado como exploracion tecnica.
